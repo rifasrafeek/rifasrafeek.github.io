@@ -46,7 +46,7 @@ I am a Geospatial Data Analyst and Survey Engineer with around six years of expe
 ---
 
 [View My Projects :material-arrow-right:](projects/index.md){ .md-button .md-button--primary }
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button }
+[Download CV :material-download:](assets/Rifas Ahamed-CV.pdf){ .md-button }
 
 
 ---

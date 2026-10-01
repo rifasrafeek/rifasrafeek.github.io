@@ -22,11 +22,11 @@ Feel free to reach out through any of the channels below.
 
 | | |
 |---|---|
-| :material-email: **Email** | [your-email@example.com](mailto:[YOUR-EMAIL-ADDRESS]) |
-| :fontawesome-brands-github: **GitHub** | [github.com/[YOUR-GITHUB-USERNAME]](https://github.com/[YOUR-GITHUB-USERNAME]) |
-| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/[YOUR-LINKEDIN-USERNAME]](https://linkedin.com/in/[YOUR-LINKEDIN-USERNAME]) |
-| :material-school: **ResearchGate** | [researchgate.net/profile/[YOUR-PROFILE]](https://www.researchgate.net/profile/[YOUR-PROFILE]) |
+| :material-email: **Email** | [rifasrafeek92@gmail.com](mailto:rifasrafeek92@gmail.com) |
+| :fontawesome-brands-github: **GitHub** | [github.com/rifasrafeek](https://github.com/rifasrafeek) |
+| :fontawesome-brands-linkedin: **LinkedIn** | [linkedin.com/in/geovizrifas](https://linkedin.com/in/geovizrifas) |
+| :material-school: **ResearchGate** | [researchgate.net/profile/Rifas-Ahamed](https://www.researchgate.net/profile/Rifas-Ahamed) |
 
 ---
 
-[Download CV :material-download:](assets/[YOUR-NAME]-CV.pdf){ .md-button .md-button--primary }
+[Download CV :material-download:](assets/Rifas Ahamed-CV.pdf){ .md-button .md-button--primary }

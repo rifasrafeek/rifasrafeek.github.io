@@ -3,13 +3,6 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove job entries as needed (copy the format of an existing entry)
-- [ ] Add or remove education entries
-- [ ] Add or remove certifications
--->
 
 # Experience & Education
 
@@ -19,23 +12,58 @@ CHECKLIST FOR THIS PAGE:
 
 <div class="timeline-entry" markdown>
 
-### [YOUR JOB TITLE] — [YOUR COMPANY / ORGANIZATION]
-*[Month Year] – [Month Year or Present] | [City, Country]*
+### Geospatial Data Analyst (Freelance) — Fiverr
+*Oct 2025 – Present | Remote*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Provide dedicated freelance GIS services to clients worldwide
+- Data creation and digitization, and geo-referencing
+- Data validation and QA
+- Spatial analysis and professional cartography
 
 </div>
 
 <div class="timeline-entry" markdown>
 
-### [YOUR PREVIOUS JOB TITLE] — [YOUR PREVIOUS COMPANY]
-*[Month Year] – [Month Year] | [City, Country]*
+### Survey Engineer — Senura Civil Engineering (PVT) Ltd
+*Feb 2022 – Sep 2024 | Bingiriya, Sri Lanka*
 
-- [Describe your main responsibility or achievement in one sentence]
-- [Describe another key task, project, or result]
-- [Describe a tool, method, or skill you applied regularly]
+- Surveying for the Pharmaceutical Manufacturing Facility Project, BOI Zone, Bingiriya
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### Survey Engineer — Beijing Shougang Construction Group
+*Jun 2020 – Feb 2021 | Bandaranaike International Airport, Sri Lanka*
+
+- Surveying for the Development & Upgrading of the Fuel Hydrant System at Bandaranaike International Airport
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### Survey Engineer — Nilona Property Developers (PVT) Ltd
+*Aug 2019 – May 2020 | Mirijjawila, Hambantota, Sri Lanka*
+
+- Surveying for the proposed Cement Factory of Lanwa Sanstha Cement Corporation (PVT) Ltd at Mirijjawila BOI Zone
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### Land Surveyor — RN Constructions (PVT) Ltd
+*Jan 2018 – Feb 2019 | Jaffna, Sri Lanka*
+
+- Land surveying for the proposed Commercial Bank Building in Jaffna
+
+</div>
+
+<div class="timeline-entry" markdown>
+
+### Intern Land Surveyor — Central Engineering Consultancy Bureau
+*May 2017 – Sep 2017 | Awissawella, Sri Lanka*
+
+- Land surveying for the Mini Hydro Power Project (proposed 20 MW) at Dehiowita, Awissawella
 
 </div>
 
@@ -45,22 +73,16 @@ CHECKLIST FOR THIS PAGE:
 
 ## Education
 
-### [YOUR DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+### BSc in Surveying Sciences (Special in Cartography and GIS)
+**Faculty of Geomatics, Sabaragamuwa University of Sri Lanka** | *2017*
 
-[Optional: one sentence about your thesis, specialization, or coursework if relevant]
-
----
-
-### [YOUR PREVIOUS DEGREE] in [YOUR FIELD]
-**[YOUR UNIVERSITY]** | *[Year of Graduation]*
+Studied 2013 – 2017.
 
 ---
 
-## Certifications
+## Research Project
 
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
-- [Certification Name] — [Issuing Organization], [Year]
+### Assessment of Solar Potential Rooftops by Using GIS and Remote Sensing Techniques
+*Sep 2017 | DOI: [10.13140/RG.2.2.32892.60808](https://doi.org/10.13140/RG.2.2.32892.60808) | License CC BY 4.0*
 
-*Examples: QGIS Certification, PMP Certification, AWS Certified Cloud Practitioner*
+[View on ResearchGate](https://www.researchgate.net/publication/395898897_ASSESSMENT_OF_SOLAR_POTENTIAL_ROOFTOPS_BY_USING_GIS_AND_REMOTE_SENSING_TECHNIQUES)
