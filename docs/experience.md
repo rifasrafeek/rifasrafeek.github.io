@@ -33,7 +33,7 @@ hide:
 
 <div class="timeline-entry" markdown>
 
-### Survey Engineer — Beijing Shougang Construction Group
+### Survey Engineer — Beijing Shougang Construction Group (SGCG)
 *Jun 2020 – Feb 2021 | Bandaranaike International Airport, Sri Lanka*
 
 - Surveying for the Development & Upgrading of the Fuel Hydrant System at Bandaranaike International Airport

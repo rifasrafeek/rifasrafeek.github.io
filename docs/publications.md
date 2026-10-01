@@ -3,44 +3,13 @@ hide:
   - toc
   - navigation
 ---
-<!--
-CHECKLIST FOR THIS PAGE:
-- [ ] Replace each [YOUR ...] placeholder with your actual information
-- [ ] Add or remove entries in each section as needed
-- [ ] Remove sections that are not applicable (e.g., Theses, Conference Presentations)
-- [ ] Add DOI or URL links where available
--->
 
 # Publications
 
-## Journal Articles
-
-1. [YOUR NAME], [CO-AUTHOR NAME], and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
-2. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
-3. [YOUR NAME] ([YEAR]). "[Your paper title here]." *[Journal Name]*, [Volume] [Issue], [Page range]. [DOI link or URL]
-
----
-
-## Conference Papers & Presentations
-
-1. [YOUR NAME] and [CO-AUTHOR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
-
-2. [YOUR NAME] ([YEAR]). "[Your presentation title]." *[Conference Name]*, [City, Country].
-
----
-
 ## Theses
 
-- [YOUR NAME] ([YEAR]). *[Your thesis title]*. [Degree type] thesis. [University Name].
+- Ahamed, Rifas (2017). *Assessment of Solar Potential Rooftops by Using GIS and Remote Sensing Techniques*. BSc thesis. Faculty of Geomatics, Sabaragamuwa University of Sri Lanka. [DOI: 10.13140/RG.2.2.32892.60808](https://doi.org/10.13140/RG.2.2.32892.60808) | [ResearchGate](https://www.researchgate.net/publication/395898897_ASSESSMENT_OF_SOLAR_POTENTIAL_ROOFTOPS_BY_USING_GIS_AND_REMOTE_SENSING_TECHNIQUES) | License CC BY 4.0
 
 ---
 
-## Reports & Technical Documents
-
-- [YOUR NAME] et al. ([YEAR]). *[Report title]*. [Organization Name]. [URL or DOI if available]
-
----
-
-*For citation counts and a full list, see [Google Scholar](https://scholar.google.com) or [ResearchGate](https://www.researchgate.net).*
+*For a full list, see [ResearchGate](https://www.researchgate.net/publication/395898897_ASSESSMENT_OF_SOLAR_POTENTIAL_ROOFTOPS_BY_USING_GIS_AND_REMOTE_SENSING_TECHNIQUES).*
