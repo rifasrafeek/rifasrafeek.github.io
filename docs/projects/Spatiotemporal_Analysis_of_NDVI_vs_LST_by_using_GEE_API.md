@@ -8,7 +8,7 @@ A freelance remote sensing project that compares vegetation greenness (NDVI) and
 
 **Study Area:** Batticaloa District, Sri Lanka  
 **Duration:** 21-June-2026 – 03-July-2026  
-**Role:** Solo project (Fiverr freelance)  
+**Role:** Solo project (Freelance)  
 **Status:** Completed and delivered in schedule
 
 ---
