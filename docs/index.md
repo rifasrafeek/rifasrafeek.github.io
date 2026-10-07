@@ -68,7 +68,7 @@ global clients.
     ---
 
     - QGIS, ArcGIS Pro, Google Earth Engine
-    - SAGA, GRASS GIS
+    - SAGAgit, GRASS GIS
     - Multispectral and SAR image analysis
     
 
