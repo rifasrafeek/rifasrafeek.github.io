@@ -1,6 +1,6 @@
 # Spatiotemporal Analysis of NDVI and LST Correlation in Batticaloa District, Sri Lanka
 
-![Project overview image](../assets/images/project1-cover.png)
+![Project overview image](../assets/images/ndvi_lst_gee.png)
 
 ## Overview
 

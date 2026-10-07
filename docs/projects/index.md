@@ -19,18 +19,18 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/project1-cover.png)
+![](../assets/images/ndvi_lst_gee.png)
 
-**[Spatiotemporal Analysis of NDVI and LST Correlation in Batticaloa District, Sri Lanka](Spatiotemporal_Analysis_of_NDVI_vs_LST_by_using_GEE_API.md)**
+**[Spatiotemporal Analysis of NDVI and LST Correlation in Batticaloa District, Sri Lanka](ndvi_lst_gee.md)**
 
 Landsat 8 imagery was processed in Google Earth Engine, and the results were mapped in QGIS to show how surface temperature relates to vegetation cover.
 
 `GEE-API` `QGIS-Desktop` `GIMP`
 
-[View Project →](Spatiotemporal_Analysis_of_NDVI_vs_LST_by_using_GEE_API.md){ .md-button }
+[View Project →](ndvi_lst_gee.md){ .md-button }
 </div>
 
-<div class="project-card" markdown>
+<!--  a<div class="project-card" markdown>
 ![](../assets/images/placeholder-notebook.png)
 
 **[Sample Notebook](sample-notebook.ipynb)**
@@ -44,3 +44,4 @@ Landsat 8 imagery was processed in Google Earth Engine, and the results were map
 
 </div>
 
+a -->
