@@ -68,7 +68,7 @@ global clients.
     ---
 
     - QGIS, ArcGIS Pro, Google Earth Engine
-    - GDAL / OGR, GRASS GIS
+    - SAGA, GRASS GIS
     - Multispectral and SAR image analysis
     
 
@@ -90,6 +90,8 @@ global clients.
     - scikit-learn, PyTorch, TensorFlow
     - Object detection in satellite imagery
 -->
+
+<!--
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
     ---
@@ -99,6 +101,7 @@ global clients.
     - Data formats — GeoTIFF, GeoParquet, NetCDF
     - Streamlit for data-driven web apps
 
+
 -   :material-database:{ .lg .middle } **Data & Cloud**
 
     ---
@@ -106,12 +109,23 @@ global clients.
     - PostgreSQL + PostGIS
     - Cloud storage: AWS S3, Google Cloud Storage
     - Data formats: GeoJSON, GeoTIFF, NetCDF, Zarr, GeoParquet
+-->
 
 -   :material-airplane:{ .lg .middle } **Drone / UAV Data Processing**
 
     - Mission planning and flight operations
-    - Photogrammetry: Agisoft Metashape, Pix4Dmapper OpenDroneMap
-    - Point cloud processing: CloudCompare, PDAL
+    - Photogrammetry: Agisoft Metashape, Pix4Dmapper, OpenDroneMap
+<!--    - Point cloud processing: CloudCompare, PDAL -->
+
+-   :material-compass-outline:{ .lg .middle } **Civil Site Designing (C3D)**
+
+    ---
+
+    - Site Design & Grading
+    - Earthwork & Corridor Modeling
+    - Survey Network Adjustments
+    - Subdivision Layouts
+
 </div>
 
 
