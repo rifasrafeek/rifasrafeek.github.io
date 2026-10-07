@@ -27,7 +27,7 @@ CHECKLIST FOR THIS PAGE:
 
 ---
 
-## About Me
+## ***About Me***
 
 <div class="about-section" markdown>
 <div class="about-text" markdown>
@@ -51,7 +51,7 @@ I am a Geospatial Data Analyst and Survey Engineer with around six years of expe
 
 ---
 
-## Skills
+## ***Competencies***
 
 <div class="grid cards" markdown>
 
@@ -109,7 +109,7 @@ I am a Geospatial Data Analyst and Survey Engineer with around six years of expe
 
 ---
 
-## Connect
+## ***Connect***
 
 [GitHub](https://github.com/rifasrafeek){ .md-button }
 [LinkedIn](https://linkedin.com/in/geovizrifas){ .md-button }
