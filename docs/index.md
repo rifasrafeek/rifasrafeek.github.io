@@ -32,8 +32,16 @@ CHECKLIST FOR THIS PAGE:
 <div class="about-section" markdown>
 <div class="about-text" markdown>
 
-I am a Geospatial Data Analyst and Survey Engineer with around six years of experience in various infrastructure projects, holding a B.Sc. in Surveying Sciences (Specialized in Cartography & GIS) from the Sabaragamuwa University of Sri Lanka. I specialize in GIS, Remote Sensing, and GIS data modeling, focusing on converting complex spatial data into actionable insights. Additionally, I work on civil site designing, utilizing Autodesk Civil 3D to deliver precise engineering layouts and workflows as a freelancer.
-
+<div style="text-align: justify">
+Survey Engineer with 7 years of high-precision field experience transitioning into
+full-time Geospatial Data Analysis. Proven track record in executing millimeter-level
+engineering layouts for complex industrial infrastructure and international
+airport projects. Professionally adept at bridging the gap between physical field
+survey data and advanced digital spatial modeling. Offering specialized freelance
+GIS analysis services, specializing in geoprocessing automation, remote sensing,
+and interactive spatial data visualization to drive data-driven decision-making for
+global clients.
+</div>
 
 </div>
 
@@ -72,7 +80,7 @@ I am a Geospatial Data Analyst and Survey Engineer with around six years of expe
     - R — sf, terra, ggplot2
     - JavaScript — Leaflet, MapLibre GL
     - SQL, PostgreSQL + PostGIS
-
+<!--
 -   :material-star-four-points:{ .lg .middle } **Machine Learning & GeoAI**
 
     ---
@@ -81,7 +89,7 @@ I am a Geospatial Data Analyst and Survey Engineer with around six years of expe
     - Deep learning for image segmentation — U-Net, SAM
     - scikit-learn, PyTorch, TensorFlow
     - Object detection in satellite imagery
-
+-->
 -   :material-earth:{ .lg .middle } **Web Mapping & Data**
 
     ---

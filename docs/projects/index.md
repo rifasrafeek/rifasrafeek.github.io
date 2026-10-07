@@ -25,9 +25,21 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 
 Landsat 8 imagery was processed in Google Earth Engine, and the results were mapped in QGIS to show how surface temperature relates to vegetation cover.
 
-`GEE-API` `QGIS-Desktop` `GIMP`
+`GEE-API` `QGIS` `GIMP`
 
 [View Project →](ndvi_lst_gee.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/fifa_2026.png)
+
+**[FIFA World Cup 2026: Single-View Data Abstraction Map](fifa_2026.md)**
+
+Turned messy FIFA World Cup 2026 tabular data into one clear map layout. Qualified teams are shown with national flags and linked by radial flow lines to the host region, while an inset map locates all 16 stadiums across the USA, Canada and Mexico.
+
+`QGIS` `MS-Excel` `GIMP`
+
+[View Project →](fifa_2026.md){ .md-button }
 </div>
 
 <!--  a<div class="project-card" markdown>

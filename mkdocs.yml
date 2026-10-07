@@ -7,7 +7,7 @@
 # Edit all lines marked [YOUR ...] to customize your site
 # ============================================================
 
-site_name: "Rifas - Geospatial Portfolio"
+site_name: "Rifas's - Geospatial Portfolio"
 site_description: "Portfolio of Rifas — GIS, Remote Sensing, and Spatial Data Science"
 site_author: "Rifas Rafeek"
 # After your site is live, uncomment and set this to your actual GitHub Pages URL:
@@ -81,6 +81,7 @@ nav:
   - Projects:
     - "All Projects": projects/index.md
     - "Spatiotemporal Analsis of NDVI vs LST by using GEE API": projects/ndvi_lst_gee.md
+    - "FIFA World Cup 2026: Single-View Data Abstraction Map": projects/fifa_2026.md
  #   - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
