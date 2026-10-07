@@ -19,16 +19,15 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/placeholder-project.png)
+![](../assets/images/project1-cover.png)
 
-**[Sample Project](sample-project.md)**
+**[Spatiotemporal Analysis of NDVI and LST Correlation in Batticaloa District, Sri Lanka](Spatiotemporal_Analysis_of_NDVI_vs_LST_by_using_GEE_API.md)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+Landsat 8 imagery was processed in Google Earth Engine, and the results were mapped in QGIS to show how surface temperature relates to vegetation cover.
 
-`[TOOL 1]` `[TOOL 2]` `[TOOL 3]`
+`GEE-API` `QGIS-Desktop` `GIMP`
 
-[View Project →](sample-project.md){ .md-button }
+[View Project →](Spatiotemporal_Analysis_of_NDVI_vs_LST_by_using_GEE_API.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
@@ -36,12 +35,12 @@ and what you found or built.]
 
 **[Sample Notebook](sample-notebook.ipynb)**
 
-[YOUR PROJECT DESCRIPTION — one or two sentences: what you did, what data you used,
-and what you found or built.]
+[Add Your Text Here!]
 
-`Python` `pandas` `Folium`
+`tool 1` `tool 2` `tool 3`
 
 [View Project →](sample-notebook.ipynb){ .md-button }
 </div>
 
 </div>
+
