@@ -34,7 +34,7 @@ CHECKLIST FOR THIS PAGE:
 
 <div style="text-align: justify">
 Survey Engineer with 7 years of high-precision field experience transitioning into
-full-time Geospatial Data Analysis. Proven track record in executing millimeter-level
+full-time Geospatial Data Analyst. Proven track record in executing millimeter-level
 engineering layouts for complex industrial infrastructure and international
 airport projects. Professionally adept at bridging the gap between physical field
 survey data and advanced digital spatial modeling. Offering specialized freelance
@@ -68,7 +68,7 @@ global clients.
     ---
 
     - QGIS, ArcGIS Pro, Google Earth Engine
-    - SAGAgit, GRASS GIS
+    - SAGA GIS, GRASS GIS
     - Multispectral and SAR image analysis
     
 
