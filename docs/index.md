@@ -131,6 +131,37 @@ global clients.
 
 ---
 
+
+## ***Featured Projects***
+
+<div class="grid cards" markdown>
+
+-   [![FIFA World Cup 2026 map](assets/images/fifa_card.jpeg)](projects/fifa_2026.md)
+
+    ---
+
+    **FIFA World Cup 2026: Single-View Data Abstraction Map**
+
+    Messy tournament data turned into one clear world map with flags, radial flow lines and a stadium inset.
+
+    [:material-arrow-right: View project](projects/fifa_2026.md)
+
+-   [![BRICS infographic map](assets/images/brics_card.jpeg)](projects/brics.md)
+
+    ---
+
+    **BRICS 2026: Members and Partner Countries Infographic Map**
+
+    A single-view infographic of the 11 full members and 10 partner countries, with flags, history and key metrics.
+
+    [:material-arrow-right: View project](projects/brics.md)
+
+</div>
+
+[See all projects :material-arrow-right:](projects/index.md){ .md-button }
+
+---
+
 ## ***Connect***
 
 [GitHub](https://github.com/rifasrafeek){ .md-button }
