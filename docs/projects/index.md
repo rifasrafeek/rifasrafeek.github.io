@@ -42,6 +42,18 @@ Turned messy FIFA World Cup 2026 tabular data into one clear map layout. Qualifi
 [View Project →](fifa_2026.md){ .md-button }
 </div>
 
+<div class="project-card" markdown>
+![](../assets/images/brics.jpeg)
+
+**[BRICS 2026: Members and Partner Countries Infographic Map](brics.md)**
+
+This Infographic shows the 11 full members and 10 partner countries with flags and labels, alongside the BRICS's history, growth timeline and key metrics.
+
+`QGIS` `MS-Excel` `GIMP`
+
+[View Project →](brics.md){ .md-button }
+</div>
+
 <!--  a<div class="project-card" markdown>
 ![](../assets/images/placeholder-notebook.png)
 

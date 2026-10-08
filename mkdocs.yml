@@ -82,6 +82,7 @@ nav:
     - "All Projects": projects/index.md
     - "Spatiotemporal Analsis of NDVI vs LST by using GEE API": projects/ndvi_lst_gee.md
     - "FIFA World Cup 2026: Single-View Data Abstraction Map": projects/fifa_2026.md
+    - "BRICS 2026: Members and Partner Countries Infographic Map": projects/brics.md
  #   - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md
