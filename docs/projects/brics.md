@@ -45,9 +45,9 @@ A freelance cartography project for a school assignment, commissioned by a clien
 
 The project needed no complex geoprocessing, so the work focused on cartographic design and layout.
 
-**Tools Used**
+**Tools/ System Used**
 
-| Tool | Purpose |
+| Tool/ System | Purpose |
 |------|---------|
 | QGIS | Data preparation, country classification, symbology and labelling |
 | QGIS Print Layout | Final composition of the map, text, graphics and legend |

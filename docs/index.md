@@ -136,7 +136,19 @@ global clients.
 
 <div class="grid cards" markdown>
 
--   [![FIFA World Cup 2026 map](assets/images/fifa_card.jpeg)](projects/fifa_2026.md)
+-   [![Feature Digitization & Web-Map](assets/images/fiverr-card.jpeg)](projects/fiverr-0001.md)
+
+    ---
+
+    **High-Density Digitization & Mapping: 50 sq.km Residential Area, Michigan**
+
+    Manually digitized roads, sidewalks, driveways and railway lines from satellite imagery across a 50 sq.km area, delivered as a single GeoPackage.
+
+    [:material-arrow-right: View project](projects/fiverr-0001.md)
+
+
+
+-   [![FIFA World Cup 2026 map](assets/images/fifa-card.jpeg)](projects/fifa.md)
 
     ---
 
@@ -144,9 +156,12 @@ global clients.
 
     Messy tournament data turned into one clear world map with flags, radial flow lines and a stadium inset.
 
-    [:material-arrow-right: View project](projects/fifa_2026.md)
+    [:material-arrow-right: View project](projects/fifa.md)
 
--   [![BRICS infographic map](assets/images/brics_card.jpeg)](projects/brics.md)
+
+
+
+-   [![BRICS infographic map](assets/images/brics-card.jpeg)](projects/brics.md)
 
     ---
 

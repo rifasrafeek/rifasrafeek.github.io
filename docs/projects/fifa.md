@@ -12,7 +12,7 @@ CHECKLIST FOR THIS PAGE (copy this file for each new project):
 
 # FIFA World Cup 2026: Single-View Data Abstraction Map
 
-![FIFA 2026 world map showing qualified teams, host stadiums and radial flow lines to North America](../assets/images/fifa_2026.png)
+![FIFA 2026 world map showing qualified teams, host stadiums and radial flow lines to North America](../assets/images/fifa.png)
 
 ## Overview
 
@@ -46,9 +46,9 @@ A freelance cartography project for a client based in Finland, who contacted me 
 6. Set the projection to World Van der Grinten I (ESRI:54029) so all countries fit in one view.
 7. Compiled the final map, North America inset, legend and stadium table in the QGIS Print Layout.
 
-**Tools Used**
+**Tools/ System Used**
 
-| Tool | Purpose |
+| Tool/ System | Purpose |
 |------|---------|
 | QGIS | Data processing, spatial joins, symbology and map design |
 | QGIS Shape Tools plugin (XY to Line) | Radial flow lines from qualified countries to the host region |

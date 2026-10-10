@@ -19,31 +19,31 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/ndvi_lst_gee.png)
+![](../assets/images/ndvi-lst-gee.png)
 
-**[Spatiotemporal Analysis of NDVI and LST Correlation in Batticaloa District, Sri Lanka](ndvi_lst_gee.md)**
+**[Spatiotemporal Analysis of NDVI and LST Correlation in Batticaloa District, Sri Lanka](ndvi-lst-gee.md)**
 
 Landsat 8 imagery was processed in Google Earth Engine, and the results were mapped in QGIS to show how surface temperature relates to vegetation cover.
 
 `GEE-API` `QGIS` `GIMP`
 
-[View Project →](ndvi_lst_gee.md){ .md-button }
+[View Project →](ndvi-lst-gee.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/fifa_2026.png)
+![](../assets/images/fifa-card.jpeg)
 
-**[FIFA World Cup 2026: Single-View Data Abstraction Map](fifa_2026.md)**
+**[FIFA World Cup 2026: Single-View Data Abstraction Map](fifa.md)**
 
-Turned messy FIFA World Cup 2026 tabular data into one clear map layout. Qualified teams are shown with national flags and linked by radial flow lines to the host region, while an inset map locates all 16 stadiums across the USA, Canada and Mexico.
+Turned messy FIFA World Cup 2026 tabular data into one clear map layout. Qualified teams are shown with national flags and linked by radial flow lines to the host region.
 
 `QGIS` `MS-Excel` `GIMP`
 
-[View Project →](fifa_2026.md){ .md-button }
+[View Project →](fifa.md){ .md-button }
 </div>
 
 <div class="project-card" markdown>
-![](../assets/images/brics.jpeg)
+![](../assets/images/brics-card.jpeg)
 
 **[BRICS 2026: Members and Partner Countries Infographic Map](brics.md)**
 
@@ -52,6 +52,18 @@ This Infographic shows the 11 full members and 10 partner countries with flags a
 `QGIS` `MS-Excel` `GIMP`
 
 [View Project →](brics.md){ .md-button }
+</div>
+
+<div class="project-card" markdown>
+![](../assets/images/fiverr-0001.jpeg)
+
+**[High-Density Digitization & Mapping: 50 sq.km Residential Area, Michigan](fiverr-0001.md)**
+
+Manually digitized roads, sidewalks, driveways and railway lines from satellite imagery across a 50 sq.km area, delivered as a single GeoPackage to support **Residential development site plans**.
+
+`QGIS` `[ArcGIS Pro]` `[Google Earth Pro]` `GIMP`
+
+[View Project →](fiverr-0001.md){ .md-button }
 </div>
 
 <!--  a<div class="project-card" markdown>

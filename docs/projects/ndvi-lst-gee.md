@@ -1,6 +1,6 @@
 # Spatiotemporal Analysis of NDVI and LST Correlation in Batticaloa District, Sri Lanka
 
-![Project overview image](../assets/images/ndvi_lst_gee.png)
+![Project overview image](../assets/images/ndvi-lst-gee.png)
 
 ## Overview
 
@@ -31,9 +31,9 @@ A freelance remote sensing project that compares vegetation greenness (NDVI) and
 5. Exported the results and classified them into five NDVI classes and five LST classes.
 6. Produced the layouts and maps in QGIS, with a consistent legend and scale across all three periods.
 
-**Tools Used**
+**Tools/ System Used**
 
-| Tool | Purpose |
+| Tool/ System | Purpose |
 |------|---------|
 | Google Earth Engine (API) | Satellite image filtering, cloud masking, NDVI and LST computation |
 | QGIS Desktop LTR 3.40.15 | Map layouts, classification and cartographic design |
