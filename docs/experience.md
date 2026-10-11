@@ -105,7 +105,7 @@ hide:
 
 ## Education
 
-### BSc in Surveying Sciences (Specialization in Cartography and GIS)
+### B.Sc. in Surveying Sciences (Specialization in Cartography and GIS)
 **Faculty of Geomatics, Sabaragamuwa University of Sri Lanka**
 
 Studied 2013 – 2017.

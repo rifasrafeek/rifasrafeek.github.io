@@ -17,14 +17,14 @@ CHECKLIST FOR THIS PAGE (copy this file for each new project):
 ## Overview
 
 <div style="text-align: justify">
-A solo freelance project for a US client on Fiverr, valued at **USD 1,000**. I manually digitized roads, sidewalks, driveways and railway lines from satellite imagery across a 50 sq.km area, delivered as a single GeoPackage to support "Residential development site plans". I also published the results as an interactive web map.
+A solo freelance project for a US client on Fiverr, valued at USD 1,000. I manually digitized roads, sidewalks, driveways and railway lines from satellite imagery across a 50 sq.km area, delivered as a single GeoPackage to support <strong>Residential development site plans</strong>. I also published the results as an interactive web map.
 </div>
 
-**Study Area:** Northville / Plymouth area, Michigan, USA (centered on 42.39914°N, 83.49122°W)
-**Project Value:** USD 1,000 (fixed-price custom offer, delivered in 4 milestones)  
-**Duration:** November 2025 – January 2026 (agreed as a 14-day job, then extended five times with the client's approval after Cyclone Ditwah disrupted work in Sri Lanka)  
-**Role:** Solo project (freelance)  
-**Status:** Completed and approved by the client
+- **Study Area:** Northville / Plymouth area, Michigan, USA (centered on 42.39914°N, 83.49122°W)
+- **Project Value:** USD 1,000 (fixed-price custom offer, delivered in 4 milestones)  
+- **Duration:** November 2025 – January 2026 (agreed as a 14-day job, then extended five times with the client's approval after Cyclone Ditwah disrupted work in Sri Lanka)  
+- **Role:** Solo project (freelance)  
+- **Status:** Completed and approved by the client
 
 ---
 
@@ -87,7 +87,7 @@ The job was a fixed-price custom offer of **USD 1,000**, split into four milesto
 | M4 | Final Delivery & QA | 2 days | $300 |
 
 <div style="text-align: justify">
-[ When Cyclone Ditwah brought power cuts and disruption to Sri Lanka in late 2025, I told the client straight away and asked for more time. The client was friendly and supportive throughout and agreed to extend the deadline on humanitarian grounds. All four milestones were completed and the order was approved. ]
+<span style="color: #171dce; font-weight: bold">When Cyclone Ditwah brought power cuts and disruption to Sri Lanka in late 2025, I told the client straight away and asked for more time. The client was friendly and supportive throughout and agreed to extend the deadline on humanitarian grounds. All four milestones were completed and the order was approved.</span>
 </div>
 
 **Evidence: Fiverr order record**
