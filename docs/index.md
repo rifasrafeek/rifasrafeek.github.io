@@ -165,7 +165,7 @@ global clients.
 
     **Spatiotemporal Analysis of NDVI and LST Correlation in Batticaloa District, Sri Lanka**
 
-    Freelance remote sensing project that compares vegetation greenness (NDVI) and Land Surface Temperature (LST) across Batticaloa District for three periods: 2014–2015, 2019–2020 and 2024–2025
+    Freelance remote sensing project that compares vegetation greenness (NDVI) and Land Surface Temperature (LST) across Batticaloa District for three periods: 2014–2015, 2019–2020 and 2024–2025.
 
     [:material-arrow-right: View project](projects/ndvi-lst-gee.md)
 
