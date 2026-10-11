@@ -19,7 +19,7 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 <div class="grid" markdown>
 
 <div class="project-card" markdown>
-![](../assets/images/ndvi-lst-gee.png)
+![](../assets/images/ndvi-lst-gee-card-1.jpeg)
 
 **[Spatiotemporal Analysis of NDVI and LST Correlation in Batticaloa District, Sri Lanka](ndvi-lst-gee.md)**
 

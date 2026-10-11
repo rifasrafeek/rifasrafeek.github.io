@@ -159,8 +159,18 @@ global clients.
     [:material-arrow-right: View project](projects/fifa.md)
 
 
+-   [![NDVI-LST-GEE](assets/images/ndvi-lst-gee-card-2.jpeg)](projects/ndvi-lst-gee.md)
+
+    ---
+
+    **Spatiotemporal Analysis of NDVI and LST Correlation in Batticaloa District, Sri Lanka**
+
+    Freelance remote sensing project that compares vegetation greenness (NDVI) and Land Surface Temperature (LST) across Batticaloa District for three periods: 2014–2015, 2019–2020 and 2024–2025
+
+    [:material-arrow-right: View project](projects/ndvi-lst-gee.md)
 
 
+<!---
 -   [![BRICS infographic map](assets/images/brics-card.jpeg)](projects/brics.md)
 
     ---
@@ -170,7 +180,7 @@ global clients.
     A single-view infographic of the 11 full members and 10 partner countries, with flags, history and key metrics.
 
     [:material-arrow-right: View project](projects/brics.md)
-
+-->
 </div>
 
 [See all projects :material-arrow-right:](projects/index.md){ .md-button }
