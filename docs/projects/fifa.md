@@ -20,10 +20,10 @@ CHECKLIST FOR THIS PAGE (copy this file for each new project):
 A freelance cartography project for a client based in Finland, who contacted me through LinkedIn. I turned messy FIFA World Cup 2026 tabular data into one clear map layout. Qualified teams are shown with national flags and linked by radial flow lines to the host region, while an inset map locates all 16 stadiums across the USA, Canada and Mexico.
 </div>
 
-**Study Area:** Global (all FIFA member nations), with a North America inset for the three host countries  
-**Duration:** 18 July 2026 – 22 July 2026 (3 days of work; assigned 18 July, submitted 21 July, approved by client 22 July)  
-**Role:** Solo project (freelance)  
-**Status:** Completed
+- **Study Area:** Global (all FIFA member nations), with a North America inset for the three host countries  
+- **Duration:** 18 July 2026 – 22 July 2026 (3 days of work; assigned 18 July, submitted 21 July, approved by client 22 July)  
+- **Role:** Solo project (freelance)  
+- **Status:** Completed
 
 ---
 

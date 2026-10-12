@@ -8,10 +8,10 @@
 A freelance remote sensing project that compares vegetation greenness (NDVI) and Land Surface Temperature (LST) across Batticaloa District for three periods: 2014–2015, 2019–2020 and 2024–2025. Landsat 8 imagery was processed in Google Earth Engine, and the results were mapped in QGIS to show how surface temperature relates to vegetation cover.
 </div>
 
-**Study Area:** Batticaloa District, Sri Lanka  
-**Duration:** 21-June-2026 – 03-July-2026  
-**Role:** Solo project (Freelance)  
-**Status:** Completed and delivered in schedule
+- **Study Area:** Batticaloa District, Sri Lanka  
+- **Duration:** 21-June-2026 – 03-July-2026  
+- **Role:** Solo project (Freelance)  
+- **Status:** Completed and delivered in schedule
 
 ---
 

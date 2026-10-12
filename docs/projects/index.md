@@ -23,7 +23,9 @@ A selection of my geospatial projects. Click any card to see the full write-up.
 
 **[Spatiotemporal Analysis of NDVI and LST Correlation in Batticaloa District, Sri Lanka](ndvi-lst-gee.md)**
 
+<div style="text-align: justify">
 Landsat 8 imagery was processed in Google Earth Engine, and the results were mapped in QGIS to show how surface temperature relates to vegetation cover.
+</div>
 
 `GEE-API` `QGIS` `GIMP`
 
@@ -35,7 +37,9 @@ Landsat 8 imagery was processed in Google Earth Engine, and the results were map
 
 **[FIFA World Cup 2026: Single-View Data Abstraction Map](fifa.md)**
 
+<div style="text-align: justify">
 Turned messy FIFA World Cup 2026 tabular data into one clear map layout. Qualified teams are shown with national flags and linked by radial flow lines to the host region.
+</div>
 
 `QGIS` `MS-Excel` `GIMP`
 
@@ -47,7 +51,9 @@ Turned messy FIFA World Cup 2026 tabular data into one clear map layout. Qualifi
 
 **[BRICS 2026: Members and Partner Countries Infographic Map](brics.md)**
 
+<div style="text-align: justify">
 This Infographic shows the 11 full members and 10 partner countries with flags and labels, alongside the BRICS's history, growth timeline and key metrics.
+</div>
 
 `QGIS` `MS-Excel` `GIMP`
 
@@ -59,11 +65,29 @@ This Infographic shows the 11 full members and 10 partner countries with flags a
 
 **[High-Density Digitization & Mapping: 50 sq.km Residential Area, Michigan](fiverr-0001.md)**
 
-Manually digitized roads, sidewalks, driveways and railway lines from satellite imagery across a 50 sq.km area, delivered as a single GeoPackage to support **Residential development site plans**.
+<div style="text-align: justify">
+
+Manually digitized roads, sidewalks, driveways and railway lines from satellite imagery across a 50 sq.km area, delivered as a single GeoPackage to support <span style="color: #171dce; font-weight: bold">Residential development site plans.</span>
+</div>
 
 `QGIS` `[ArcGIS Pro]` `[Google Earth Pro]` `GIMP`
 
 [View Project →](fiverr-0001.md){ .md-button }
+</div>
+
+
+<div class="project-card" markdown>
+![](../assets/images/crs-view-card-1.jpeg)
+
+**[Flattening the Sphere: A Visual Guide to 21 World Map Projections](crs-view.md)**
+
+
+One poster that shows the same world map in all 21 world projections ESRI provides in QGIS, each labelled with its name and ESRI code. I started it because I wanted to understand world coordinate systems and their views.
+
+
+`QGIS` `GIMP`
+
+[View Project →](crs-view.md){ .md-button }
 </div>
 
 <!--  a<div class="project-card" markdown>

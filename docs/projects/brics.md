@@ -20,10 +20,10 @@ CHECKLIST FOR THIS PAGE (copy this file for each new project):
 A freelance cartography project for a school assignment, commissioned by a client in India who contacted me through LinkedIn. I designed a single-view infographic of the BRICS bloc following the 2026 summit in India. It shows the 11 full members and 10 partner countries with flags and labels, alongside the BRICS's history, growth timeline and key metrics.
 </div>
 
-**Study Area:** Global (BRICS full members and partner countries)  
-**Duration:** 26 July 2026, 3 days from project confirmation  
-**Role:** Solo project (freelance)  
-**Status:** Completed, submitted and approved by the client
+- **Study Area:** Global (BRICS full members and partner countries)  
+- **Duration:** 26 July 2026, 3 days from project confirmation  
+- **Role:** Solo project (freelance)  
+- **Status:** Completed, submitted and approved by the client
 
 ---
 

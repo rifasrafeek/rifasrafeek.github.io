@@ -84,6 +84,7 @@ nav:
     - "FIFA World Cup 2026: Single-View Data Abstraction Map": projects/fifa.md
     - "BRICS 2026: Members and Partner Countries Infographic Map": projects/brics.md
     - "High-Density Digitization & Mapping: 50 sq.km Residential Area, Michigan": projects/fiverr-0001.md
+    - "Flattening the Sphere: A Visual Guide to 21 World Map Projections": projects/crs-view.md
  #   - "Jupyter Notebook Project": projects/sample-notebook.ipynb
     # HOW TO ADD A NEW PROJECT:
     # 1. Copy docs/projects/sample-project.md to docs/projects/your-project-name.md

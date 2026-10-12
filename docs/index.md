@@ -170,6 +170,17 @@ global clients.
     [:material-arrow-right: View project](projects/ndvi-lst-gee.md)
 
 
+-   [![crs-view](assets/images/crs-view-card-2.jpeg)](projects/crs-view.md)
+
+    ---
+
+    **Flattening the Sphere: A Visual Guide to 21 World Map Projections.**
+
+    One poster that shows the same world map in all 21 world projections ESRI provides in QGIS, each labelled with its name and ESRI code.
+
+    [:material-arrow-right: View project](projects/crs-view.md)
+
+
 <!---
 -   [![BRICS infographic map](assets/images/brics-card.jpeg)](projects/brics.md)
 
